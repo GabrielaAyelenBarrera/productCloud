@@ -1,0 +1,10 @@
+<h1>Lista de pets</h1>
+<ul>
+    {{#if pets.length}}
+    {{#each pets}}
+        <li>{{this.name}}</li>
+    {{/each}}
+    {{else}}
+    <li>No pets found</li>
+    {{/if}}
+</ul>

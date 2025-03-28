@@ -31,3 +31,5 @@ export default {
     getAllAdoptions,
     getAdoption
 }
+
+//hacer los tests para estas rutas

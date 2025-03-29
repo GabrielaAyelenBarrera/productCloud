@@ -200,7 +200,7 @@ node --test tests/sessions.test.js
 
 Incluida en el repo: [`Ducumentación`](./src/docs/Users.yaml)
 
-Importala en Postman para probar todos los endpoints con ejemplos de requests.
+Importala en Postman para probar con Swagger el módulo de “Users” con ejemplos de requests.
 
 ---
 
